@@ -1,7 +1,7 @@
 # US_domestic_airline_flights
 monitoring and reporting US domestic airline flights performance via interactive Dashboard using dash and plotly
 
-# Demonstartion of results
+# Demonstration of results
 ## ***Picture 1***
 ![Capture d’écran (735)](https://github.com/YounesGuendoul/US_domestic_airline_flights/assets/123268300/e8f28fec-7dac-45dc-b637-4c8ac20d51fa)
 ## ***Picture 2***
